@@ -2,7 +2,7 @@ This is solution for term paper "Two factor authentication for Windows 7" for Op
 
 ____________________________________
 
-- SampleWrapExistingCredentialProvider
+- USBCredentialProvider
 
 This is VS2010 project. Credential provider is DDL which uses two COM-interfaces: ICredentialProvider and ICredentialProviderCredential. 
 
